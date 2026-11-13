@@ -1,0 +1,252 @@
+# Rake: App Store & Google Play ASO Metadata (10 European Languages)
+
+================================================================================
+1. ENGLISH (en)
+================================================================================
+Title (max 30 chars):
+Rake: Zen Sand Garden
+
+Subtitle (max 30 chars):
+Draw. Breathe. Relax.
+
+Keywords (max 100 chars):
+zen,garden,sand,relax,meditation,mindful,calm,drawing,asmr,cozy,anti-stress,rake,karesansui
+
+Promo Text (max 170 chars):
+Leave the noise behind. Rake smooth grooves into warm sand, breathe deeply, and find a moment of pure calm whenever you need it.
+
+Description (approx 400 chars):
+Escape daily stress with Rake, a meditative Japanese zen sand garden in your pocket. Drag your finger across textured sand to create calming grooves with realistic light and shadow. With no timers, no scores, and no fail states, Rake provides a quiet sanctuary for mindfulness, stress relief, and gentle creativity. Slow down, draw patterns, and breathe.
+
+Screenshot Overlays:
+1. "Slow down. Draw. Breathe."
+2. "3D sand grooves that follow your finger"
+3. "Handcrafted meditative inspiration patterns"
+4. "Soothing ambient soundscapes and tactile haptics"
+5. "A peaceful sanctuary without timers or pressure"
+
+================================================================================
+2. GERMAN / DEUTSCH (de)
+================================================================================
+Title (max 30 chars):
+Rake: Zen Sandgarten
+
+Subtitle (max 30 chars):
+Zeichnen. Atmen. Ruhe.
+
+Keywords (max 100 chars):
+zen,sandgarten,entspannung,meditation,achtsamkeit,ruhe,zeichnen,asmr,antistress,harke,japanisch
+
+Promo Text (max 170 chars):
+Lass den Alltagsstress hinter dir. Ziehe sanfte Linien in warmen Sand, atme tief durch und finde jederzeit einen Moment wahrer Gelassenheit.
+
+Description (approx 400 chars):
+Entfliehe dem Stress mit Rake, deinem meditativen japanischen Zen-Garten für die Hosentasche. Ziehe mit dem Finger sanfte Linien in den Sand mit fühlbarem Licht- und Schattenspiel. Ohne Timer, ohne Punkte und ohne Leistungsdruck schenkt dir Rake eine Oase der Ruhe für Achtsamkeit und Wohlbefinden. Komm zur Ruhe, zeichne und atme durch.
+
+Screenshot Overlays:
+1. "Atme. Zeichne. Komm zur Ruhe."
+2. "Fühlbare Sandrillen unter deinen Fingern"
+3. "Inspirierende traditionelle Zen-Muster"
+4. "Sanfte Naturklänge und dezente Haptik"
+5. "Vollkommene Ruhe ohne Druck und Zeitlimit"
+
+================================================================================
+3. FRENCH / FRANÇAIS (fr)
+================================================================================
+Title (max 30 chars):
+Rake : Jardin Zen
+
+Subtitle (max 30 chars):
+Dessinez. Respirez.
+
+Keywords (max 100 chars):
+zen,jardin,sable,relaxation,meditation,pleine conscience,calme,dessin,asmr,antistress,rateau
+
+Promo Text (max 170 chars):
+Éloignez le tumulte quotidien. Tracez des sillons délicats dans le sable chaud, respirez profondément et profitez d'une parenthèse de sérénité.
+
+Description (approx 400 chars):
+Échappez aux tensions quotidiennes avec Rake, votre jardin de sable zen japonais. Glissez votre doigt sur le sable pour tracer des sillons harmonieux sublimés de délicates ombres en relief. Sans chronomètre ni score, Rake est un havre de paix dédié à la pleine conscience et à la détente. Ralentissez, dessinez et respirez.
+
+Screenshot Overlays:
+1. "Ralentissez. Dessinez. Respirez."
+2. "Des sillons réalistes sculptés du bout des doigts"
+3. "Des motifs méditatifs pour vous inspirer"
+4. "Ambiance sonore apaisante et retour tactile"
+5. "Un sanctuaire paisible, sans stress ni chrono"
+
+================================================================================
+4. SPANISH / ESPAÑOL (es)
+================================================================================
+Title (max 30 chars):
+Rake: Jardín Zen
+
+Subtitle (max 30 chars):
+Dibuja. Respira.
+
+Keywords (max 100 chars):
+zen,jardin,arena,relajacion,meditacion,mindfulness,calma,dibujo,asmr,antiestres,rastrillo
+
+Promo Text (max 170 chars):
+Deja atrás el ruido. Traza surcos suaves en arena tibia, respira hondo y encuentra un instante de calma genuina cuando más lo necesites.
+
+Description (approx 400 chars):
+Desconecta del ajetreo diario con Rake, tu jardín zen de arena en el bolsillo. Desliza tu dedo sobre la arena para esculpir hermosos trazos con volumen, luces y sombras suaves. Sin tiempo ni puntuaciones, Rake te ofrece un remanso de paz para la relajación y la atención plena. Respira, dibuja y desacelera.
+
+Screenshot Overlays:
+1. "Respira. Dibuja. Desacelera."
+2. "Surcos realistas que siguen tus dedos"
+3. "Patrones zen tradicionales de inspiración"
+4. "Sonido envolvente y suave respuesta háptica"
+5. "Paz absoluta sin prisas ni presiones"
+
+================================================================================
+5. ITALIAN / ITALIANO (it)
+================================================================================
+Title (max 30 chars):
+Rake: Giardino Zen
+
+Subtitle (max 30 chars):
+Disegna. Respira.
+
+Keywords (max 100 chars):
+zen,giardino,sabbia,relax,meditazione,mindfulness,calma,disegno,asmr,antistress,rastrello
+
+Promo Text (max 170 chars):
+Lascia andare il frastuono. Traccia solchi leggeri sulla sabbia calda, respira a fondo e riscopri la quiete ogni volta che ne senti il bisogno.
+
+Description (approx 400 chars):
+Ritrova la pace interiore con Rake, il tuo giardino zen giapponese tascabile. Sfiora la sabbia con il dito per creare solchi tridimensionali con luci e ombre delicate. Senza timer né punteggi, Rake è un rifugio intimo di serenità per la meditazione e l'antistress. Rallenta, disegna e respira.
+
+Screenshot Overlays:
+1. "Rallenta. Disegna. Respira."
+2. "Solchi armoniosi che seguono il tuo tocco"
+3. "Eleganti motivi zen a cui ispirarsi"
+4. "Suoni rilassanti della natura e tocco aptico"
+5. "Uno spazio di calma pura senza fretta"
+
+================================================================================
+6. PORTUGUESE / PORTUGUÊS (pt)
+================================================================================
+Title (max 30 chars):
+Rake: Jardim Zen
+
+Subtitle (max 30 chars):
+Desenha. Respira.
+
+Keywords (max 100 chars):
+zen,jardim,areia,relaxamento,meditacao,mindfulness,calma,desenho,asmr,anti-stress,ancinho
+
+Promo Text (max 170 chars):
+Esquece a agitação diária. Traça linhas suaves na areia morna, respira fundo e encontra um momento de pura tranquilidade sempre que precisares.
+
+Description (approx 400 chars):
+Desconecta-te da rotina com Rake, o teu jardim de areia zen japonês. Desliza o dedo pela areia e cria sulcos naturais com textura, sombras e relevo subtil. Sem contadores nem pontuações, Rake oferece um refúgio tranquilo para a meditação e o alívio do stress. Abranda, desenha e respira.
+
+Screenshot Overlays:
+1. "Abranda. Desenha. Respira."
+2. "Sulcos tácteis desenhados com a ponta dos dedos"
+3. "Padrões de inspiração zen tradicionais"
+4. "Sons de ambiente calmos e vibração suave"
+5. "Serenidade total sem metas nem pressa"
+
+================================================================================
+7. DUTCH / NEDERLANDS (nl)
+================================================================================
+Title (max 30 chars):
+Rake: Zen Zandtuin
+
+Subtitle (max 30 chars):
+Teken. Adem. Rust.
+
+Keywords (max 100 chars):
+zen,zandtuin,ontspanning,meditatie,mindfulness,rust,tekenen,asmr,antistress,hark,karesansui
+
+Promo Text (max 170 chars):
+Laat de drukte achter je. Trek vloeiende lijnen door warm zand, haal diep adem en vind op elk moment van de dag een oase van rust.
+
+Description (approx 400 chars):
+Kom tot rust met Rake, een meditatieve Japanse zentuin op je telefoon. Beweeg je vinger over het zand om tastbare patronen te harken met levensechte schaduwen. Zonder timers, scores of druk biedt Rake een vredige plek voor mindfulness en stressverlichting. Vertraag, teken en adem.
+
+Screenshot Overlays:
+1. "Vertraag. Teken. Adem."
+2. "Realistische groeven die je vinger volgen"
+3. "Rustgevende patronen ter inspiratie"
+4. "Zachte natuurgeluiden en subtiele haptiek"
+5. "Pure ontspanning zonder tijdsdruk"
+
+================================================================================
+8. POLISH / POLSKI (pl)
+================================================================================
+Title (max 30 chars):
+Rake: Ogród Zen
+
+Subtitle (max 30 chars):
+Rysuj. Oddychaj.
+
+Keywords (max 100 chars):
+zen,ogrod,piasek,relaks,medytacja,mindfulness,spokoj,rysunek,asmr,antystres,grabie,japonski
+
+Promo Text (max 170 chars):
+Ucieknij od zgiełku. Rysuj spokojne linie na ciepłym piasku, weź głęboki oddech i odnajdź kojącą ciszę o każdej porze dnia.
+
+Description (approx 400 chars):
+Zrelaksuj się przy Rake, kieszonkowym ogrodzie zen z piaskiem. Przesuwaj palcem po powierzchni piasku, by tworzyć miękkie bruzdy z naturalnym światłocieniem. Bez liczników, punktacji i presji, Rake jest Twoją prywatną oazą spokoju i uważności. Zwolnij, twórz wzory i oddychaj.
+
+Screenshot Overlays:
+1. "Zwolnij. Rysuj. Oddychaj."
+2. "Wypukłe ślady w piasku pod Twoim palcem"
+3. "Tradycyjne wzory zen dla inspiracji"
+4. "Kojące dźwięki natury i subtelna haptyka"
+5. "Bezpieczna przystań bez presji czasu"
+
+================================================================================
+9. SWEDISH / SVENSKA (sv)
+================================================================================
+Title (max 30 chars):
+Rake: Zen Sandträdgård
+
+Subtitle (max 30 chars):
+Rita. Andas. Njut.
+
+Keywords (max 100 chars):
+zen,sandtradgard,avslappning,meditation,mindfulness,lugn,rita,asmr,antistress,kratta,karesansui
+
+Promo Text (max 170 chars):
+Lämna bruset bakom dig. Kratta mjuka fåror i den varma sanden, ta ett djupt andetag och finn stillhet närhelst du behöver det.
+
+Description (approx 400 chars):
+Hitta ditt inre lugn med Rake, en meditativ japansk zenträdgård i fickformat. Dra fingret över sanden för att skapa mjuka mönster med realistiska skuggor och ljus. Utan tidtagning eller poäng ger Rake dig en fristad för mindfulness och återhämtning. Sakta ner, rita och andas.
+
+Screenshot Overlays:
+1. "Sakta ner. Rita. Andas."
+2. "Taktila sandfåror som följer ditt finger"
+3. "Meditativa mönster som ger inspiration"
+4. "Mjuka bakgrundsljud och diskret haptik"
+5. "En rofylld stund utan krav eller stress"
+
+================================================================================
+10. TURKISH / TÜRKÇE (tr)
+================================================================================
+Title (max 30 chars):
+Rake: Zen Kum Bahçesi
+
+Subtitle (max 30 chars):
+Çiz. Nefes al. Dinlen.
+
+Keywords (max 100 chars):
+zen,kum,bahce,rahatlama,meditasyon,huzur,sakinlik,cizim,asmr,antistres,tirmik,japon
+
+Promo Text (max 170 chars):
+Günlük koşturmacayı geride bırak. Ilık kuma huzurlu çizgiler çiz, derin bir nefes al ve dilediğin an dinginliğin tadını çıkar.
+
+Description (approx 400 chars):
+Rake ile günün stresinden uzaklaş: cebindeki meditatif Japon zen kum bahçesi. Parmağını kum üzerinde kaydırarak gerçekçi ışık ve gölgelerle dalgalı desenler oluştur. Zamanlayıcı ve puan kaygısı olmadan Rake, zihinsel dinlenme ve huzur için sakin bir sığınaktır. Yavaşla, çiz ve nefes al.
+
+Screenshot Overlays:
+1. "Yavaşla. Çiz. Nefes al."
+2. "Parmağını takip eden gerçekçi kum izleri"
+3. "Huzur veren geleneksel zen desenleri"
+4. "Yatıştırıcı doğa sesleri ve dokunsal titreşim"
+5. "Zaman sınırı ve baskı olmayan sakin bir alan"
+

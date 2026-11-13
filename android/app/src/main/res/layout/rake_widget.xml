@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8DCC8"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/widget_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rake"
+        android:textColor="#3D3529"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Today's Pattern"
+        android:textColor="#8B7D6B"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/widget_pattern_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zen Waves"
+        android:textColor="#3D3529"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Tap to draw"
+        android:textColor="#7FA88E"
+        android:textSize="10sp" />
+</LinearLayout>
+

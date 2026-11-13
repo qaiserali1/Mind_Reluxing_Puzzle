@@ -1,0 +1,231 @@
+{
+  "version": "1.0.0",
+  "comment": "Localization text overlays for automated screenshot framing (Fastlane Frameit / App Store Connect / Google Play Console)",
+  "screenshots": [
+    {
+      "id": 1,
+      "slug": "hero_draw_sand",
+      "caption": {
+        "en": "Find Your Quiet",
+        "de": "Finde deine Ruhe",
+        "fr": "Trouvez votre sérénité",
+        "es": "Encuentra tu calma",
+        "it": "Trova la tua calma",
+        "pt": "Encontre a sua calma",
+        "nl": "Vind je rust",
+        "pl": "Odnajdź spokój",
+        "sv": "Hitta ditt lugn",
+        "tr": "Sessizliğini Bul"
+      },
+      "subcaption": {
+        "en": "Draw mindful rake patterns in sand",
+        "de": "Ziehe achtsame Harkenmuster im Sand",
+        "fr": "Tracez des motifs méditatifs dans le sable",
+        "es": "Traza patrones conscientes en la arena",
+        "it": "Traccia delicati solchi nella sabbia",
+        "pt": "Desenhe padrões conscientes na areia",
+        "nl": "Trek aandachtige patronen in zand",
+        "pl": "Rysuj wyciszające wzory grabiami w piasku",
+        "sv": "Rita medvetna krattmönster i sanden",
+        "tr": "Kum üzerinde huzur verici desenler çizin"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "sand_physics",
+      "caption": {
+        "en": "Tactile Realism",
+        "de": "Spürbare Natürlichkeit",
+        "fr": "Réalisme tactile",
+        "es": "Realismo táctil",
+        "it": "Realismo tattile",
+        "pt": "Realismo tátil",
+        "nl": "Tastbaar realisme",
+        "pl": "Dotykowy realizm",
+        "sv": "Taktil realism",
+        "tr": "Dokunsal Gerçekçilik"
+      },
+      "subcaption": {
+        "en": "Gentle haptics with natural grain depth",
+        "de": "Sanfte Haptik mit natürlicher Tiefe",
+        "fr": "Haptique subtile et profondeur de grain",
+        "es": "Háptica suave con textura natural",
+        "it": "Feedback aptico leggero e grana naturale",
+        "pt": "Háptica suave com grão orgânico",
+        "nl": "Zachte haptiek met natuurlijke korrel",
+        "pl": "Subtelna haptyka i naturalna głębia ziaren",
+        "sv": "Mjuk haptik med naturligt korndjup",
+        "tr": "Doğal kum derinliği ve yumuşak titreşim"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "guided_patterns",
+      "caption": {
+        "en": "Quiet Inspiration",
+        "de": "Stille Inspiration",
+        "fr": "Inspiration douce",
+        "es": "Inspiración serena",
+        "it": "Ispirazione quieta",
+        "pt": "Inspiração serena",
+        "nl": "Stille inspiratie",
+        "pl": "Cicha inspiracja",
+        "sv": "Stilla inspiration",
+        "tr": "Sessiz İlham"
+      },
+      "subcaption": {
+        "en": "Follow calming guides or create freely",
+        "de": "Folge Linien oder gestalte frei",
+        "fr": "Suivez le tracé ou créez librement",
+        "es": "Sigue las guías o dibuja a tu aire",
+        "it": "Segui le guide o crea in libertà",
+        "pt": "Siga os guias ou crie à vontade",
+        "nl": "Volg gidsen of teken in alle vrijheid",
+        "pl": "Śledź linie pomocnicze lub twórz swobodnie",
+        "sv": "Följ lugna linjer eller skapa fritt",
+        "tr": "Kılavuzları izleyin veya özgürce çizin"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "soundscapes",
+      "caption": {
+        "en": "Natural Soundscapes",
+        "de": "Natürliche Klangwelten",
+        "fr": "Paysages sonores naturels",
+        "es": "Sonidos naturales",
+        "it": "Paesaggi sonori naturali",
+        "pt": "Paisagens sonoras naturais",
+        "nl": "Natuurlijke klankwerelden",
+        "pl": "Naturalne tła dźwiękowe",
+        "sv": "Naturliga ljudlandskap",
+        "tr": "Doğal Ses Manzaraları"
+      },
+      "subcaption": {
+        "en": "Soft wind, gentle stream, distant temple bell",
+        "de": "Leiser Wind, sanftes Wasser, Tempelglocke",
+        "fr": "Brise légère, ruisseau limpide, cloche zen",
+        "es": "Brisa suave, agua cristalina y campana lejana",
+        "it": "Vento leggero, ruscello calmo e campana zen",
+        "pt": "Vento suave, água calma e sino distante",
+        "nl": "Zachte bries, kabbelend beekje, tempelbel",
+        "pl": "Cichy wiatr, szemrzący potok, dzwon świątynny",
+        "sv": "Mild vind, porlande bäck, tempelklocka",
+        "tr": "Hafif rüzgar, sakin dere, uzak tapınak çanı"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "seasonal_themes",
+      "caption": {
+        "en": "Earth & Stone Themes",
+        "de": "Erde- & Steinfarben",
+        "fr": "Couleurs minérales",
+        "es": "Tierras y piedras",
+        "it": "Armonie minerali",
+        "pt": "Tons de terra e pedra",
+        "nl": "Aarde- en steenpaletten",
+        "pl": "Kolory ziemi i skał",
+        "sv": "Jord och sten",
+        "tr": "Toprak ve Taş Tonları"
+      },
+      "subcaption": {
+        "en": "Warm gravel, dark basalt, Kyoto moss, pure salt",
+        "de": "Warmes Kiesbett, Basalt, Kyoto-Moos, Meersalz",
+        "fr": "Gravier chaud, basalte noir, mousse de Kyoto",
+        "es": "Grava cálida, basalto oscuro, musgo de Kioto",
+        "it": "Ghiaia calda, basalto scuro, muschio di Kyoto",
+        "pt": "Cascalho quente, basalto escuro, musgo de Quioto",
+        "nl": "Warm grind, donker basalt, Kyoto-mos, zuiver zout",
+        "pl": "Ciepły żwir, ciemny bazalt, mech z Kioto",
+        "sv": "Varmt grus, mörk basalt, Kyoto-mossa, rent salt",
+        "tr": "Sıcak çakıl, koyu bazalt, Kyoto yosunu, saf tuz"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "daily_ritual",
+      "caption": {
+        "en": "A Daily Pause",
+        "de": "Deine tägliche Pause",
+        "fr": "Votre pause quotidienne",
+        "es": "Tu pausa diaria",
+        "it": "La tua pausa quotidiana",
+        "pt": "A sua pausa diária",
+        "nl": "Je dagelijkse rustmoment",
+        "pl": "Twoja codzienna chwila",
+        "sv": "En daglig paus",
+        "tr": "Günlük Dinginlik Anı"
+      },
+      "subcaption": {
+        "en": "One fresh meditative pattern every morning",
+        "de": "Jeden Morgen ein neues meditatives Muster",
+        "fr": "Un nouveau motif contemplatif chaque matin",
+        "es": "Un nuevo diseño contemplativo cada mañana",
+        "it": "Un nuovo disegno riflessivo ogni mattina",
+        "pt": "Um novo padrão meditativo a cada manhã",
+        "nl": "Elke ochtend een nieuw meditatief patroon",
+        "pl": "Każdego ranka nowy wzór do kontemplacji",
+        "sv": "Ett nytt meditativt mönster varje morgon",
+        "tr": "Her sabah yeni bir meditatif desen"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "pure_sanctuary",
+      "caption": {
+        "en": "No Timers. No Pressure.",
+        "de": "Kein Timer. Kein Druck.",
+        "fr": "Ni chrono. Ni pression.",
+        "es": "Sin tiempo. Sin presión.",
+        "it": "Nessun timer. Nessuna fretta.",
+        "pt": "Sem pressa. Sem estresse.",
+        "nl": "Geen timers. Geen stress.",
+        "pl": "Bez pośpiechu. Bez presji.",
+        "sv": "Ingen klocka. Ingen stress.",
+        "tr": "Sayaç Yok. Baskı Yok."
+      },
+      "subcaption": {
+        "en": "No scores, no loss. Pure mindful breathing.",
+        "de": "Keine Punkte, kein Scheitern. Reines Atmen.",
+        "fr": "Sans score ni défaite. Juste respirer.",
+        "es": "Sin puntuaciones ni fallos. Solo calma.",
+        "it": "Senza punteggi né errori. Solo respiro.",
+        "pt": "Sem pontuações nem falhas. Apenas respirar.",
+        "nl": "Geen scores of falen. Puur tot jezelf komen.",
+        "pl": "Brak punktów i przegranej. Czysty oddech.",
+        "sv": "Inga poäng, inga förluster. Bara andetag.",
+        "tr": "Puan yok, kaybetmek yok. Saf nefes ve huzur."
+      }
+    },
+    {
+      "id": 8,
+      "slug": "cross_platform_zen",
+      "caption": {
+        "en": "Calm on Every Screen",
+        "de": "Ruhe auf allen Geräten",
+        "fr": "La paix sur chaque écran",
+        "es": "Paz en cada pantalla",
+        "it": "La calma su ogni schermo",
+        "pt": "Paz em todos os ecrãs",
+        "nl": "Rust op al je schermen",
+        "pl": "Spokój na każdym ekranie",
+        "sv": "Harmoni på alla skärmar",
+        "tr": "Her Ekranda Dinginlik"
+      },
+      "subcaption": {
+        "en": "iPhone, iPad, Mac, and Apple Watch companion",
+        "de": "iPhone, iPad, Mac und Apple Watch Begleiter",
+        "fr": "Compagnon pour iPhone, iPad, Mac et Apple Watch",
+        "es": "En iPhone, iPad, Mac y Apple Watch",
+        "it": "Su iPhone, iPad, Mac e Apple Watch",
+        "pt": "Para iPhone, iPad, Mac e Apple Watch",
+        "nl": "iPhone, iPad, Mac en Apple Watch widget",
+        "pl": "Dostępne na iPhone, iPad, Mac i Apple Watch",
+        "sv": "På iPhone, iPad, Mac och Apple Watch",
+        "tr": "iPhone, iPad, Mac ve Apple Watch uyumlu"
+      }
+    }
+  ]
+}
+

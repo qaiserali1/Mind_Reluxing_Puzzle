@@ -1,0 +1,32 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // User private profile, synced settings & strokes
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow delete: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Public community gallery
+    match /community_patterns/{patternId} {
+      allow read: if true;
+      allow create: if request.auth != null
+                    && request.resource.data.authorUid == request.auth.uid
+                    && request.resource.data.theme is string
+                    && request.resource.data.reports == 0;
+      // Allow incrementing likes or reports without editing content
+      allow update: if request.auth != null && (
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['likes']) ||
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['reports', 'isHidden'])
+      );
+      allow delete: if false; // Only admin or auto-hide
+    }
+
+    // Referral tracking
+    match /referrals/{referralCode} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+  }
+}
+
