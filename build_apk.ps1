@@ -26,7 +26,8 @@ if ($LASTEXITCODE -eq 0) {
     Write-Host "APK Built Successfully!" -ForegroundColor Green
     Write-Host "File Location: build\app\outputs\flutter-apk\app-release.apk" -ForegroundColor White
     Write-Host "============================================================" -ForegroundColor Green
-} else {
+}
+else {
     Write-Host "`n[ERROR] Build failed with exit code $LASTEXITCODE" -ForegroundColor Red
 }
 
