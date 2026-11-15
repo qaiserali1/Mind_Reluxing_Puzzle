@@ -1,0 +1,23 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugin-dependencies
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+local.properties
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradleBuild/
+
+# Symbol & debug files
+*.orig
+*.rej
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
